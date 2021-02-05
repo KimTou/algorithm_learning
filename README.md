@@ -1,1 +1,3 @@
-# algorithm_learning
+# Algorithm_Learning
+Kim Tou、Jackkii、A Jin
+---------
